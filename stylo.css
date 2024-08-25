@@ -10,12 +10,16 @@
     justify-content:center;
 }
 
-.nav{
+.section{
     width: 400px;
     height: 400px;
     background-color:rgb(243, 245, 247);
     display:flex;
     border-radius: 10px;
+}
+
+.card-header{
+    display: flex;
 }
 
 .img{
@@ -30,5 +34,6 @@
 }
 
 .parrafo{
-    
+        font-weight: bold;
+        margin: 0 10px;
 }
